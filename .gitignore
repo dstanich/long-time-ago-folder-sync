@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.folder-sync-config.js
+
+# For local testing
+test-origin/
+test-destination/
